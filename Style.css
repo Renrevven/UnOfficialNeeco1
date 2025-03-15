@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a {text-decoration: none;
+      color: black;}
+body {background-color: #fff642;
+      font-family: Arial, sans-serif;}
+table {border-color:#000000;}
+table, th, td {border: 3px solid;
+  border-collapse: collapse;}
+tr, td {font-size:25px;
+  padding:20px;
+  color:#000000;
+  background-color:#38ba5b;}
+td {transition: background-color 0.3s ease;}
+td a.active{background-color: #a66100;
+  color: #000000;}
+td a:not:hover(.active){background-color: #a66100;
+  color: #000000;}
+td:hover {background-color: #a66100;
+  color: #000000;}
+body {background-color:#fff642;}
+h1, h2, h3, h6 {text-align: center;}
+h1 {font-size:75px;
+  color:black;
+  background-color: transparent;
+  transition: background-color 0.9s ease;}
+h1:hover {background-color:#fff642;
+  color: #000000;}   
+h2 {font-size: 60px;
+   color: #000000;}
+h2 {transition: background-color 0.9s ease;}
+h2:hover {background-color:#fff642;}
+h3 {font-size:50px;}
+h6 {font-size:20px;}
+p {color:#000000;
+  transition: color 0.9s ease, background-color 0.9s ease;}
+p:hover {background-color:#000000;
+  color: #a66100;}
+div.container { width:28%;
+  overflow:auto;
+  display: inline-block;
+  justify-content: 
+  space-around;
+  gap: 10px;}
+.container {display: inline-block;
+margin: 20px;}
+.container1 {margin: 20px;}
+div.container1 {width:300px;
+  overflow:auto;
+  margin: 0 auto;
+  text-align: center;}
+div.containerP {
+  width:300px;
+  overflow:auto;}
+footer {background-color: #000000;
+      color: #a3a3a3;
+      text-align: center;
+      padding: 20px;}
+footer a {color: #a3a3a3;}
+</style>
+
+</head>
+</html>
+
+
+   
+   
+
+ 
+  </style>
